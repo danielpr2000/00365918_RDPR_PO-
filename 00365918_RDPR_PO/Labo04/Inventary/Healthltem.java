@@ -14,8 +14,6 @@ import javax.swing.*;
                 this.type = type;
             }
 
-
-
              abstract void drink();
 
     }

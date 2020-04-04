@@ -204,7 +204,7 @@ public class Main {
                             case 1:
                                 PersonaItems.removeIf(obj ->{
                                     if (obj instanceof Weapon) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Weapon");
                                         return  true;
                                     }
                                     return false;
@@ -213,7 +213,7 @@ public class Main {
                             case 2:
                                    PersonaItems.removeIf(obj ->{
                                     if (obj instanceof Ammo) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Ammo");
                                         return true;
                                     }
                                     return false;
@@ -222,7 +222,7 @@ public class Main {
                             case 3:
                                 PersonaItems.removeIf(obj ->{
                                     if (obj instanceof Potion) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Potion");
                                         return true;
                                     }
                                     return false;
@@ -231,7 +231,7 @@ public class Main {
                             case 4:
                                 PersonaItems.removeIf(obj ->{
                                     if (obj instanceof Elixir) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Elixir");
                                         return true;
                                     }
                                     return false;
@@ -246,7 +246,7 @@ public class Main {
                             case 1:
                                 Commonitems.removeIf(obj ->{
                                     if (obj instanceof Weapon) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Weapon");
                                         return true;
                                     }
                                     return false;
@@ -255,7 +255,7 @@ public class Main {
                             case 2:
                                 Commonitems.removeIf(obj ->{
                                     if (obj instanceof Ammo) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Ammo");
                                         return true;
                                     }
                                     return false;
@@ -264,7 +264,7 @@ public class Main {
                             case 3:
                                 Commonitems.removeIf(obj ->{
                                     if (obj instanceof Potion) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de isntacia Potion");
                                         return true;
                                     }
                                     return false;
@@ -273,7 +273,7 @@ public class Main {
                             case 4:
                                 Commonitems.removeIf(obj ->{
                                     if (obj instanceof Elixir) {
-                                        JOptionPane.showMessageDialog(null,obj.toString());
+                                        JOptionPane.showMessageDialog(null,"Se ha Eliminado los Item de instacia Elixir");
                                         return true;
                                     }
                                     return false;
@@ -414,7 +414,6 @@ public class Main {
     }
 
     static Item anadirWeapon() {
-
         String name = JOptionPane.showInputDialog(null, "Nombre: ");
         int weight  = Integer.parseInt(JOptionPane.showInputDialog(null,"Peso: "));
         String descripcion= JOptionPane.showInputDialog(null, "Descripcion: ");
@@ -464,4 +463,5 @@ public class Main {
 
         return new Weapon(name,weight,descripcion,remainingUses,type,speed,damage,wieldType,level);
     }
+
 }
