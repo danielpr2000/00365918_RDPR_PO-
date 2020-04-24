@@ -288,8 +288,8 @@ public class Main {
                     JOptionPane.showMessageDialog(null,obj.toString());
                 });
                     Commonitems.forEach(obj ->{
-                        JOptionPane.showMessageDialog(null,obj.toString());
-                    });
+                    JOptionPane.showMessageDialog(null,obj.toString());
+                });
                 break;
             }
 
