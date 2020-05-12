@@ -1,0 +1,9 @@
+C:\Users\HP\RiderProjects\ui\bin\Debug\ui.exe.config
+C:\Users\HP\RiderProjects\ui\bin\Debug\ui.exe
+C:\Users\HP\RiderProjects\ui\bin\Debug\ui.pdb
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.Properties.Resources.resources
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.csproj.GenerateResource.cache
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.exe
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.pdb
+C:\Users\HP\RiderProjects\ui\obj\Debug\ui.Form1.resources
