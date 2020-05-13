@@ -1,0 +1,11 @@
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\bin\Debug\laboratorio_08.exe.config
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\bin\Debug\laboratorio_08.pdb
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio 08.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.Properties.Resources.resources
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio 08.csproj.GenerateResource.cache
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.exe
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.pdb
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.Form1.resources
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.login.resources
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio_08.Registrarse.resources
+C:\Users\HP\RiderProjects\laboratorio 08\laboratorio 08\obj\Debug\laboratorio 08.csproj.CopyComplete
