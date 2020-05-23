@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec5379f-2d5c-41bd-ad4e-ddc05fb767cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/ViewData.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/ViewData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/RegisterStudent.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/RegisterStudent.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/RegisterStudent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/Inscripition.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/Inscripition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/AdSingature.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/AdSingature.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laboratorio 09/ConnectionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/RegisterStudent.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/laboratorio 09/AdSingature.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/Inscripition.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/ViewData.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/RegisterStudnet.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/RegisterStudnet.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/RegisterStudent.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/Form1.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/ConnectionDB.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/RegisterStudent.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/AdSingature.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/Inscripition.cs" />
+        <option value="$PROJECT_DIR$/laboratorio 09/ViewData.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c8uvkW8QSGgwophY6g4hjUQJGc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="laboratorio 09" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/laboratorio 09/laboratorio 09.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec5379f-2d5c-41bd-ad4e-ddc05fb767cf" name="Default Changelist" comment="" />
+      <created>1589922783929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589922783929</updated>
+      <workItem from="1589922800866" duration="9826000" />
+      <workItem from="1590011615554" duration="4608000" />
+      <workItem from="1590016448274" duration="1139000" />
+      <workItem from="1590017669933" duration="13854000" />
+      <workItem from="1590081533502" duration="1110000" />
+      <workItem from="1590082828438" duration="4061000" />
+      <workItem from="1590094735962" duration="8489000" />
+      <workItem from="1590167416175" duration="10983000" />
+      <workItem from="1590197751605" duration="599000" />
+      <workItem from="1590201070360" duration="1658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="634" y="359" key="Assembly removing confirmation dialog" timestamp="1590100206955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="359" key="Assembly removing confirmation dialog/0.0.1536.824@0.0.1536.824" timestamp="1590100206955" />
+    <state width="726" height="214" key="GridCell.Tab.0.bottom" timestamp="1590184402726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590184402726" />
+    <state width="726" height="214" key="GridCell.Tab.0.center" timestamp="1590184402726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590184402726" />
+    <state width="726" height="214" key="GridCell.Tab.0.left" timestamp="1590184402726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590184402726" />
+    <state width="726" height="214" key="GridCell.Tab.0.right" timestamp="1590184402726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590184402726" />
+    <state x="548" y="279" key="ToolboxManager" timestamp="1590100232952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="279" key="ToolboxManager/0.0.1536.824@0.0.1536.824" timestamp="1590100232952" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590179460595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590179460595" />
+  </component>
+</project>

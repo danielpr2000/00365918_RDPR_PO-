@@ -1,0 +1,35 @@
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\laboratorio_09.exe.config
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\laboratorio_09.pdb
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio 09.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.Properties.Resources.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio 09.csproj.GenerateResource.cache
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.exe
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.pdb
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.Form1.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.AdSingature.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.Inscripition.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.ViewData.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio 09.csproj.CopyComplete
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.RegisterStudent.resources
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\Npgsql.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Buffers.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Memory.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Text.Json.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\Npgsql.pdb
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\Npgsql.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Buffers.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Memory.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Text.Json.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\RiderProjects\laboratorio 09\laboratorio 09\obj\Debug\laboratorio_09.exe.config
