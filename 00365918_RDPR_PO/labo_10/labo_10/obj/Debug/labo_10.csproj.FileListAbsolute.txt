@@ -1,0 +1,5 @@
+C:\Users\HP\RiderProjects\labo_10\labo_10\bin\Debug\labo_10.exe
+C:\Users\HP\RiderProjects\labo_10\labo_10\bin\Debug\labo_10.pdb
+C:\Users\HP\RiderProjects\labo_10\labo_10\obj\Debug\labo_10.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\labo_10\labo_10\obj\Debug\labo_10.exe
+C:\Users\HP\RiderProjects\labo_10\labo_10\obj\Debug\labo_10.pdb

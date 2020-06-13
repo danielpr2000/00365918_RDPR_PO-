@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace labo6
 {
     public class Evaluacion
     {
+
         protected int porcentaje;
         protected String nombre;
 

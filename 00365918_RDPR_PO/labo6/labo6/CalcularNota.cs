@@ -5,8 +5,12 @@ namespace labo6
 {
     public static class CalcularNota
     {
+        
+        
         public static double Calcular(List<Evaluacion> ev)
         {
+            ev.Add(new Evaluacion(15,"no "));
+            
             double Total = 0;
 
             foreach (var obj in ev)

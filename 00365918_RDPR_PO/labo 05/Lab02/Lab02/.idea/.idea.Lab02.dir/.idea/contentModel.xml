@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo 05\Lab02\Lab02" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Lab02.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

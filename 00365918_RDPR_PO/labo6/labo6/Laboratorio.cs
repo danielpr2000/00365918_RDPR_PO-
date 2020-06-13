@@ -3,7 +3,6 @@
 namespace labo6
 {
     public class Laboratorio : Evaluacion
-
     {
     private String tipo;
 

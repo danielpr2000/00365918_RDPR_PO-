@@ -3,3 +3,8 @@ C:\Users\HP\RiderProjects\labo6\labo6\bin\Debug\labo6.pdb
 C:\Users\HP\RiderProjects\labo6\labo6\obj\Debug\labo6.csprojAssemblyReference.cache
 C:\Users\HP\RiderProjects\labo6\labo6\obj\Debug\labo6.exe
 C:\Users\HP\RiderProjects\labo6\labo6\obj\Debug\labo6.pdb
+C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo6\labo6\bin\Debug\labo6.exe
+C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo6\labo6\bin\Debug\labo6.pdb
+C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo6\labo6\obj\Debug\labo6.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo6\labo6\obj\Debug\labo6.exe
+C:\Users\HP\OneDrive\Escritorio\Repositorio\00365918_RDPR_PO-\00365918_RDPR_PO\labo6\labo6\obj\Debug\labo6.pdb

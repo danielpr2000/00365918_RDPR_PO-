@@ -18,6 +18,7 @@ namespace labo6
         static int canPregutnas;
         static string tipo;
         
+
         static String Menu = "\n1.Agregar evaluación\n" + "2.Mostrar evaluaciones almacenadas\n" +
                                   "3.Eliminar evaluación\n" + "0.Terminar programa\n";
 
@@ -25,7 +26,7 @@ namespace labo6
                                       "1.Tarea\n" + "2.Parcial\n" + "3.Laboratiorio\n" + "0.Salir ";
                     
                     
-        public static void Main(string[] args)
+        public static void Main(string[] args) 
         {
             var Evaluaciones = new List<Evaluacion>();
             int PocentajeFree = 100;
